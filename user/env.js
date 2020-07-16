@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: 'Node is best',
   // API
-  host: 'https://panel.wcnm.shop/api/v1/passport/auth/login',
+  host: 'https://panel.wcnm.shop/',
   // 主题
   theme: {
     sidebar: 'light',
